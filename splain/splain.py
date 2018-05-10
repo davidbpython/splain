@@ -5,9 +5,9 @@
 
     Author:      David Blaikie (david@davidbpython.com)
 
-    Version:     1.0
+    Version:     0.1.1
 
-    Last revised:  2017-10-15
+    Last revised:  2017-05-10
 
 
     To use, simply place splain.py in your Python search path;
