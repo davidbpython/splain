@@ -14,6 +14,10 @@
     in your script, import splain
 
 """
+import __main__ as main
+if not hasattr(main, '__file__'):
+    raise ImportError('splain cannot be imported from the interactive Python interpreter')
+
 
 import sys
 import atexit

@@ -3,7 +3,7 @@ from setuptools import setup
 setup( name='splain',
        version='0.1',
        description='A module to explain Python exceptions as they occur.',
-       url='git@github.com:davidbpython/splain.git', 
+       url='https://github.com/davidbpython/splain',
        author='David Blaikie',
        author_email='david@davidbpython.com',
        license='MIT',
