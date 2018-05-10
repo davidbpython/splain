@@ -1,5 +1,4 @@
-# splain
-## explain exceptions and offer debugging advice 
+# splain:  explain exceptions and offer debugging advice 
 
 Usage:
 ```
